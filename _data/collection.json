@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Furious Flower 1994 Conference: Keynote Speeches: Wilson, Day 2 Part 1, September 30, 1994" ] },
+    "summary": { "en": [ "00:10 Joanne V. Gabbin introduces Rita Dove; \r\n05:00 Dove speaks and reads poems; \r\n44:00 Gabbin introduces Dolores Kendrick; \r\n46:44 Kendrick introduces Gwendolyn Brooks; \r\n51:40 Brooks speaks and reads poems" ] },
+    "items": [
+    ]
+}
