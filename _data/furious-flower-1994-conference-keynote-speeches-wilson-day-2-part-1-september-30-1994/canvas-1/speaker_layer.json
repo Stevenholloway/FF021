@@ -1,0 +1,407 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer.json",
+  "type": "AnnotationPage",
+  "label": "Speaker_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.637682,39.409143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "40.816612,80.042905"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "81.070237,120.766488"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "122.485024,124.557994"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "126.144445,128.068648"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138.494989,183.958255"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "193.597415,201.090245"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "202.781153,221.311611"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "222.133857,226.086100"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "227.869295,244.341499"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "244.442247,246.588317"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "247.151626,251.110134"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne V. Gabbin</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "252.640756,274.650000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q445740\">Rita Dove</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.652385,368.337788"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q445740\">Rita Dove</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "370.022902,491.066072"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q445740\">Rita Dove</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "491.488313,505.703754"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q445740\">Rita Dove</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "506.548235,606.921815"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q445740\">Rita Dove</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "616.612342,616.316077"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q445740\">Rita Dove</a>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "624.212677,858.003769"
+        }
+      }
+    }
+  ]
+}

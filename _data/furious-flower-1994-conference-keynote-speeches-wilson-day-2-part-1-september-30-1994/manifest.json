@@ -30,6 +30,12 @@
             "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/environment.json",
             "label": "Environment"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/speaker_layer.json",
+            "label": "Speaker_Layer"
+          }
         ],
         "items": [
           {
