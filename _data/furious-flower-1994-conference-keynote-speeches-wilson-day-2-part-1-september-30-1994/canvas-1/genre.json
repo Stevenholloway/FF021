@@ -1,0 +1,407 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre.json",
+  "type": "AnnotationPage",
+  "label": "Genre",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "014.637682,039.409143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "040.816612,080.042905"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "081.070237,120.766488"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "122.485024,124.557994"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "126.144445,128.068648"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138.494989,183.958255"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "193.597415,201.090245"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "202.781153,221.311611"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "222.133857,226.086100"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "228.052066,244.341499"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "244.442247,246.588317"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "247.151626,251.110134"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "252.640756,274.650000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.652385,368.337788"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "370.163328,491.066072"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Poetry Recitation",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "491.488313,505.703754"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Poetry Recitation",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "506.548235,606.921815"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monologue ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "616.612342,617.316077"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas/genre-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Poetry Recitation",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FF021/furious-flower-1994-conference-keynote-speeches-wilson-day-2-part-1-september-30-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "624.212677,858.003769"
+        }
+      }
+    }
+  ]
+}
